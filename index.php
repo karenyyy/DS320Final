@@ -83,7 +83,7 @@
                     <div class="mobile-menu">
                         <nav id="dropdown">
                             <ul class="mobile-menu-nav">
-                                <li class="active"><a data-toggle="tab" href="#Home"><i class="notika-icon notika-house"></i> Home</a>
+                                <li class="active"><a data-toggle="tab" href="index.php"><i class="notika-icon notika-house"></i> Home</a>
                                 </li>
                                 <li><a data-toggle="collapse" data-target="#demodepart" href="#">Tables</a>
                                     <ul id="demodepart" class="collapse dropdown-header-top">
@@ -106,7 +106,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <ul class="nav nav-tabs notika-menu-wrap menu-it-icon-pro">
-                        <li class="active"><a data-toggle="tab" href="#Home"><i class="notika-icon notika-house"></i> Home</a>
+                        <li class="active"><a data-toggle="tab" href="index.php"><i class="notika-icon notika-house"></i> Home</a>
                         </li>
                         <li><a data-toggle="tab" href="#Tables"><i class="notika-icon notika-windows"></i> Tables</a>
                         </li>
