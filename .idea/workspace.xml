@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83984504-8f0e-4978-bbdd-02263ed9b683" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/data-table.html" afterPath="$PROJECT_DIR$/data-table.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,12 +16,22 @@
       <file leaf-file-name="data-table.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data-table.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+            <state relative-caret-position="272">
+              <caret line="117" column="35" lean-forward="false" selection-start-line="117" selection-start-column="29" selection-end-line="117" selection-end-column="35" />
               <folding>
-                <marker date="1575846404596" expanded="true" signature="2651:2804" ph="..." />
-                <marker date="1575846404596" expanded="true" signature="2744:2772" ph="..." />
+                <marker date="1575846612544" expanded="true" signature="2651:2804" ph="..." />
+                <marker date="1575846612544" expanded="true" signature="2744:2772" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="86" column="37" lean-forward="true" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -32,9 +41,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>INTERFACE</find>
-      <find>Home</find>
-      <find>Tables</find>
       <find>notika</find>
+      <find>Home</find>
+      <find>Final Report</find>
+      <find>Tables</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,12 +135,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575844627764</updated>
-      <workItem from="1575844629029" duration="1509000" />
+      <workItem from="1575844629029" duration="1717000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1509000" />
+    <option name="totallyTimeSpent" value="1717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="1052" extended-state="6" />
@@ -192,13 +202,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="86" column="37" lean-forward="true" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data-table.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        <state relative-caret-position="272">
+          <caret line="117" column="35" lean-forward="false" selection-start-line="117" selection-start-column="29" selection-end-line="117" selection-end-column="35" />
           <folding>
-            <marker date="1575846404596" expanded="true" signature="2651:2804" ph="..." />
-            <marker date="1575846404596" expanded="true" signature="2744:2772" ph="..." />
+            <marker date="1575846612544" expanded="true" signature="2651:2804" ph="..." />
+            <marker date="1575846612544" expanded="true" signature="2744:2772" ph="..." />
           </folding>
         </state>
       </provider>
