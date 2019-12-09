@@ -70,7 +70,7 @@
         <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                 <div class="logo-area">
-                    <a href="#"><img src="img/logo/logo.png" alt=""/></a>
+                    <h1 style="color: white">DS320 Final Project</h1>
                 </div>
             </div>
         </div>
@@ -142,12 +142,6 @@
                                 <div class="breadcomb-ctn">
                                     <h2>Data Table</h2>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-3">
-                            <div class="breadcomb-report">
-                                <button data-toggle="tooltip" data-placement="left" title="Download Report" class="btn">
-                                    <i class="notika-icon notika-sent"></i></button>
                             </div>
                         </div>
                     </div>

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83984504-8f0e-4978-bbdd-02263ed9b683" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/data-table.html" afterPath="$PROJECT_DIR$/data-table.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/data-table.html" afterPath="$PROJECT_DIR$/data-table.php" />
       <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,15 +15,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="data-table.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data-table.html">
+      <file leaf-file-name="data-table.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data-table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="109" column="28" lean-forward="false" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="28" />
+            <state relative-caret-position="218">
+              <caret line="145" column="30" lean-forward="false" selection-start-line="145" selection-start-column="30" selection-end-line="145" selection-end-column="30" />
               <folding>
-                <marker date="1575846738363" expanded="true" signature="2651:2804" ph="..." />
-                <marker date="1575846738363" expanded="true" signature="2744:2772" ph="..." />
+                <marker date="1575853977738" expanded="true" signature="2651:2804" ph="..." />
+                <marker date="1575853977738" expanded="true" signature="2744:2772" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="1623" column="58" lean-forward="false" selection-start-line="1623" selection-start-column="58" selection-end-line="1623" selection-end-column="58" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -31,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="108" column="79" lean-forward="false" selection-start-line="108" selection-start-column="79" selection-end-line="108" selection-end-column="79" />
+              <caret line="120" column="55" lean-forward="false" selection-start-line="120" selection-start-column="45" selection-end-line="120" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -45,7 +56,14 @@
       <find>notika</find>
       <find>Final Report</find>
       <find>Tables</find>
+      <find>style.cs</find>
+      <find>modern</find>
+      <find>png</find>
       <find>Home</find>
+      <find>fonts</find>
+      <find>320</find>
+      <find>logo-ar</find>
+      <find>data-table</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -58,6 +76,7 @@
         <option value="$PROJECT_DIR$/notika/green-horizotal/index.html" />
         <option value="$PROJECT_DIR$/data-table.html" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/data-table.php" />
       </list>
     </option>
   </component>
@@ -96,6 +115,27 @@
             <path>
               <item name="DS320Final" type="b2602c69:ProjectViewProjectNode" />
               <item name="DS320Final" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DS320Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS320Final" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DS320Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS320Final" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DS320Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS320Final" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DS320Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS320Final" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="logo" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -137,18 +177,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575844627764</updated>
-      <workItem from="1575844629029" duration="1842000" />
+      <workItem from="1575844629029" duration="5132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1842000" />
+    <option name="totallyTimeSpent" value="5132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16880342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -204,21 +244,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/img/logo/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="108" column="79" lean-forward="false" selection-start-line="108" selection-start-column="79" selection-end-line="108" selection-end-column="79" />
+        <state relative-caret-position="510">
+          <caret line="1623" column="58" lean-forward="false" selection-start-line="1623" selection-start-column="58" selection-end-line="1623" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data-table.html">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="109" column="28" lean-forward="false" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="28" />
+          <caret line="120" column="55" lean-forward="false" selection-start-line="120" selection-start-column="45" selection-end-line="120" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="145" column="30" lean-forward="false" selection-start-line="145" selection-start-column="30" selection-end-line="145" selection-end-column="30" />
           <folding>
-            <marker date="1575846738363" expanded="true" signature="2651:2804" ph="..." />
-            <marker date="1575846738363" expanded="true" signature="2744:2772" ph="..." />
+            <marker date="1575853977738" expanded="true" signature="2651:2804" ph="..." />
+            <marker date="1575853977738" expanded="true" signature="2744:2772" ph="..." />
           </folding>
         </state>
       </provider>

@@ -87,7 +87,7 @@
                                 </li>
                                 <li><a data-toggle="collapse" data-target="#demodepart" href="#">Tables</a>
                                     <ul id="demodepart" class="collapse dropdown-header-top">
-                                        <li><a href="data-table.html">Data Table</a></li>
+                                        <li><a href="data-table.php">Data Table</a></li>
                                     </ul>
                                 </li>
                                 <li><a data-toggle="tab" href="#"><i class="notika-icon notika-edit"></i> Final Report</a>
@@ -118,7 +118,7 @@
                         </div>
                         <div id="Tables" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
-                                <li><a href="data-table.html">Data Table</a>
+                                <li><a href="data-table.php">Data Table</a>
                                 </li>
                             </ul>
                         </div>
