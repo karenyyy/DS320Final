@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83984504-8f0e-4978-bbdd-02263ed9b683" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/data-table.html" afterPath="$PROJECT_DIR$/data-table.php" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/data-table.php" afterPath="$PROJECT_DIR$/data-table.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,14 +13,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="data-table.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data-table.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data-table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="145" column="30" lean-forward="false" selection-start-line="145" selection-start-column="30" selection-end-line="145" selection-end-column="30" />
+            <state relative-caret-position="272">
+              <caret line="2996" column="58" lean-forward="false" selection-start-line="2996" selection-start-column="58" selection-end-line="2996" selection-end-column="58" />
               <folding>
-                <marker date="1575853977738" expanded="true" signature="2651:2804" ph="..." />
-                <marker date="1575853977738" expanded="true" signature="2744:2772" ph="..." />
+                <element signature="n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1575854197399" expanded="true" signature="2651:2804" ph="..." />
+                <marker date="1575854197399" expanded="true" signature="2744:2772" ph="..." />
               </folding>
             </state>
           </provider>
@@ -38,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="120" column="55" lean-forward="false" selection-start-line="120" selection-start-column="45" selection-end-line="120" selection-end-column="55" />
+              <caret line="483" column="68" lean-forward="true" selection-start-line="483" selection-start-column="68" selection-end-line="483" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -64,6 +63,7 @@
       <find>320</find>
       <find>logo-ar</find>
       <find>data-table</find>
+      <find>2018</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -75,8 +75,8 @@
         <option value="$PROJECT_DIR$/notika/green-horizotal/data-table.html" />
         <option value="$PROJECT_DIR$/notika/green-horizotal/index.html" />
         <option value="$PROJECT_DIR$/data-table.html" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/data-table.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -177,12 +177,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575844627764</updated>
-      <workItem from="1575844629029" duration="5132000" />
+      <workItem from="1575844629029" duration="5340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5132000" />
+    <option name="totallyTimeSpent" value="5340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="1052" extended-state="6" />
@@ -257,22 +257,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/data-table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="120" column="55" lean-forward="false" selection-start-line="120" selection-start-column="45" selection-end-line="120" selection-end-column="55" />
-          <folding />
+          <caret line="2996" column="58" lean-forward="false" selection-start-line="2996" selection-start-column="58" selection-end-line="2996" selection-end-column="58" />
+          <folding>
+            <element signature="n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1575854197399" expanded="true" signature="2651:2804" ph="..." />
+            <marker date="1575854197399" expanded="true" signature="2744:2772" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data-table.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="145" column="30" lean-forward="false" selection-start-line="145" selection-start-column="30" selection-end-line="145" selection-end-column="30" />
-          <folding>
-            <marker date="1575853977738" expanded="true" signature="2651:2804" ph="..." />
-            <marker date="1575853977738" expanded="true" signature="2744:2772" ph="..." />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="483" column="68" lean-forward="true" selection-start-line="483" selection-start-column="68" selection-end-line="483" selection-end-column="68" />
+          <folding />
         </state>
       </provider>
     </entry>
