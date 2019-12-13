@@ -235,10 +235,33 @@
                 },
                 textStyle: {fontFamily: "Arial, Verdana, sans-serif"}
             };
+            var id_dict = {
+                '10851': 'STOLEN VEHICLE',
+                '242': 'BATTERY',
+                '243E': 'BATTERY ON CO-HABITA',
+                '415': 'DISTURBING THE PEACE',
+                '415C': '415 UNKNOWN',
+                '5150': 'MENTALLY ILL',
+                '911H': '911 HANG-UP',
+                '912': 'SUSPICIOUS PERSON',
+                '933R': 'ALARM-RINGER',
+                'SECCK': 'SECURITY CHECK'
+            };
+
             if ($("#mainb1").length) {
                 var b = echarts.init(document.getElementById("mainb1"), a);
                 b.setOption({
-                    tooltip: {trigger: "axis"},
+                    tooltip: {trigger: "axis",
+                        formatter: function (datas) {
+                            var res = id_dict[datas[0].name] + '<br/>';
+                            for (var i = 0, length = datas.length; i < length; i++) {
+                                res += datas[i].seriesName + '：'
+                                    + datas[i].data + '<br/>'
+                            }
+                            return res
+                        }
+                    },
+
                     legend: {data: ["Priority 1", "Priority 2"]},
                     toolbox: {show: !1},
                     calculable: !1,
@@ -264,7 +287,16 @@
             if ($("#mainb2").length) {
                 var b = echarts.init(document.getElementById("mainb2"), a);
                 b.setOption({
-                    tooltip: {trigger: "axis"},
+                    tooltip: {trigger: "axis",
+                            formatter: function (datas) {
+                                var res = id_dict[datas[0].name] + '<br/>';
+                                for (var i = 0, length = datas.length; i < length; i++) {
+                                    res += datas[i].seriesName + '：'
+                                        + datas[i].data + '<br/>'
+                                }
+                                return res
+                            }
+                        },
                     legend: {data: ["Priority 1", "Priority 2"]},
                     toolbox: {show: !1},
                     calculable: !1,
@@ -290,7 +322,15 @@
             if ($("#mainb3").length) {
                 var b = echarts.init(document.getElementById("mainb3"), a);
                 b.setOption({
-                    tooltip: {trigger: "axis"},
+                    tooltip: {trigger: "axis",
+                        formatter: function (datas) {
+                            var res = id_dict[datas[0].name] + '<br/>';
+                            for (var i = 0, length = datas.length; i < length; i++) {
+                                res += datas[i].seriesName + '：'
+                                    + datas[i].data + '<br/>'
+                            }
+                            return res
+                        }},
                     legend: {data: ["Priority 1", "Priority 2"]},
                     toolbox: {show: !1},
                     calculable: !1,
@@ -316,7 +356,15 @@
             if ($("#mainb4").length) {
                 var b = echarts.init(document.getElementById("mainb4"), a);
                 b.setOption({
-                    tooltip: {trigger: "axis"},
+                    tooltip: {trigger: "axis",
+                        formatter: function (datas) {
+                            var res = id_dict[datas[0].name] + '<br/>';
+                            for (var i = 0, length = datas.length; i < length; i++) {
+                                res += datas[i].seriesName + '：'
+                                    + datas[i].data + '<br/>'
+                            }
+                            return res
+                        }},
                     legend: {data: ["Priority 1", "Priority 2"]},
                     toolbox: {show: !1},
                     calculable: !1,
@@ -342,7 +390,15 @@
             if ($("#mainb5").length) {
                 var b = echarts.init(document.getElementById("mainb5"), a);
                 b.setOption({
-                    tooltip: {trigger: "axis"},
+                    tooltip: {trigger: "axis",
+                        formatter: function (datas) {
+                            var res = id_dict[datas[0].name] + '<br/>';
+                            for (var i = 0, length = datas.length; i < length; i++) {
+                                res += datas[i].seriesName + '：'
+                                    + datas[i].data + '<br/>'
+                            }
+                            return res
+                        }},
                     legend: {data: ["Priority 1", "Priority 2"]},
                     toolbox: {show: !1},
                     calculable: !1,
@@ -368,7 +424,15 @@
             if ($("#mainb6").length) {
                 var b = echarts.init(document.getElementById("mainb6"), a);
                 b.setOption({
-                    tooltip: {trigger: "axis"},
+                    tooltip: {trigger: "axis",
+                        formatter: function (datas) {
+                            var res = id_dict[datas[0].name] + '<br/>';
+                            for (var i = 0, length = datas.length; i < length; i++) {
+                                res += datas[i].seriesName + '：'
+                                    + datas[i].data + '<br/>'
+                            }
+                            return res
+                        }},
                     legend: {data: ["Priority 1", "Priority 2"]},
                     toolbox: {show: !1},
                     calculable: !1,
