@@ -1,0 +1,213 @@
+<!DOCTYPE HTML>
+<!--
+	Industrious by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Data Integration by Create Time</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a class="logo" href="index.html">DS320 Final Project</a>
+				<nav>
+					<a href="#menu">Menu</a>
+				</nav>
+			</header>
+
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="https://docs.google.com/document/d/1d6jUaIHjRdQ7rl7W5Gjs3t3TYafRZr2IOJGhge9nK5A/edit">Report</a></li>
+				</ul>
+			</nav>
+
+		<!-- Heading -->
+			<div id="heading" >
+				<h1>Data Integration by Create Time</h1>
+			</div>
+
+		<!-- Main -->
+			<section id="main" class="wrapper">
+				<div class="inner">
+					<div class="content">
+
+								<!-- Table -->
+									<h3>Data Integration with Create Time as Prime Key</h3>
+									<h4>Dataset 1</h4>
+									<div class="table-wrapper">
+										<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Event Number</th>
+      <th>Agency</th>
+      <th>Create Time</th>
+      <th>Location</th>
+      <th>Area Id</th>
+      <th>Beat</th>
+      <th>Priority</th>
+      <th>Incident Type Id</th>
+      <th>Incident Type Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LOP120101000004</td>
+      <td>OP</td>
+      <td>2012-01-01 00:00:25</td>
+      <td>OLIVE ST</td>
+      <td>2.0</td>
+      <td>32Y</td>
+      <td>2.0</td>
+      <td>415GS</td>
+      <td>415 GUNSHOTS</td>
+    </tr>
+    <tr>
+      <td>LOP120101000003</td>
+      <td>OP</td>
+      <td>2012-01-01 00:00:27</td>
+      <td>AV MACARTHUR BLVD</td>
+      <td>2.0</td>
+      <td>30Y</td>
+      <td>2.0</td>
+      <td>415GS</td>
+      <td>415 GUNSHOTS</td>
+    </tr>
+    <tr>
+      <td>LOP120101000005</td>
+      <td>OP</td>
+      <td>2012-01-01 00:00:48</td>
+      <td>SYCAMORE ST</td>
+      <td>1.0</td>
+      <td>06X</td>
+      <td>2.0</td>
+      <td>949</td>
+      <td>SUSPICIOUS VEHICLE</td>
+    </tr>
+    <tr>
+      <td>LOP120101000008</td>
+      <td>OP</td>
+      <td>2012-01-01 00:00:58</td>
+      <td>AV MACARTHUR BLVD</td>
+      <td>2.0</td>
+      <td>35X</td>
+      <td>2.0</td>
+      <td>415GS</td>
+      <td>415 GUNSHOTS</td>
+    </tr>
+    <tr>
+      <td>LOP120101000007</td>
+      <td>OP</td>
+      <td>2012-01-01 00:01:14</td>
+      <td>ST WOOD ST</td>
+      <td>1.0</td>
+      <td>02Y</td>
+      <td>2.0</td>
+      <td>415GS</td>
+      <td>415 GUNSHOTS</td>
+    </tr>
+  </tbody>
+</table>
+									</div>
+									<h4>Dataset 2</h4>
+									<div class="table-wrapper">
+										<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Event Number</th>
+      <th>Agency</th>
+      <th>Create Time</th>
+      <th>Location</th>
+      <th>Area Id</th>
+      <th>Beat</th>
+      <th>Priority</th>
+      <th>Incident Type Id</th>
+      <th>Incident Type Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LOP130101000002</td>
+      <td>OP</td>
+      <td>2013-01-01 00:00:00</td>
+      <td>D ST</td>
+      <td>2.0</td>
+      <td>33X</td>
+      <td>1.0</td>
+      <td>415GS</td>
+      <td>415 GUNSHOTS</td>
+    </tr>
+    <tr>
+      <td>LOP130101000004</td>
+      <td>OP</td>
+      <td>2013-01-01 00:00:05</td>
+      <td>ARTHUR ST</td>
+      <td>2.0</td>
+      <td>30X</td>
+      <td>2.0</td>
+      <td>415GS</td>
+      <td>415 GUNSHOTS</td>
+    </tr>
+    <tr>
+      <td>LOP130101000003</td>
+      <td>OP</td>
+      <td>2013-01-01 00:00:50</td>
+      <td>BRIDGE AV</td>
+      <td>2.0</td>
+      <td>23X</td>
+      <td>1.0</td>
+      <td>243E</td>
+      <td>BATTERY ON CO-HABITA</td>
+    </tr>
+    <tr>
+      <td>LOP130101000005</td>
+      <td>OP</td>
+      <td>2013-01-01 00:02:16</td>
+      <td>AV&amp;BROOKDALE AV</td>
+      <td>2.0</td>
+      <td>29X</td>
+      <td>2.0</td>
+      <td>415GS</td>
+      <td>415 GUNSHOTS</td>
+    </tr>
+    <tr>
+      <td>LOP130101000006</td>
+      <td>OP</td>
+      <td>2013-01-01 00:02:47</td>
+      <td>AV&amp;SAN LEANDRO ST</td>
+      <td>2.0</td>
+      <td>26Y</td>
+      <td>2.0</td>
+      <td>415GS</td>
+      <td>415 GUNSHOTS</td>
+    </tr>
+  </tbody>
+</table>
+									</div>
+
+							</div>
+
+					<div class="copyright">
+						&copy; Designed by <a href="https://templated.co/">TEMPLATED</a> and released under the Creative Commons License. Photos <a href="https://unsplash.co">Unsplash</a>, Video <a href="https://coverr.co">Coverr</a>.
+					</div>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
